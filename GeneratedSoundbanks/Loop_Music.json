@@ -1,0 +1,133 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3748028359",
+    "Type": "User",
+    "GUID": "{2BC2FC08-3F88-4591-BBBD-1F95480CA9B8}",
+    "Language": "SFX",
+    "Hash": "{0B6786E9-35F1-03E3-043A-7661E8130E66}",
+    "ObjectPath": "\\SoundBanks\\Music\\Loop_Music",
+    "ShortName": "Loop_Music",
+    "Path": "Loop_Music.bnk",
+    "Media": [
+     {
+      "Id": "124086837",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State B Corrupted w no tail.wav",
+      "CachePath": "74/{745A70E1-86CA-0CE8-1595-95ABC78F9C52}.wem"
+     },
+     {
+      "Id": "174459924",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Intro For Both States.wav",
+      "CachePath": "6A/{6A08CEB8-466B-AA89-653C-7C0F6CC2B3C2}.wem"
+     },
+     {
+      "Id": "262187711",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State A Safe w tail at end.wav",
+      "CachePath": "BD/{BD8B543F-4FBB-47BA-674E-DC06E2BB2483}.wem"
+     },
+     {
+      "Id": "317674465",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State B Corrupted w tail at start.wav",
+      "CachePath": "6C/{6C02A991-AAC9-9ABF-D35C-6080B8A68321}.wem"
+     },
+     {
+      "Id": "466093923",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State A Safe 1.4.wav",
+      "CachePath": "A5/{A596EED5-6379-D0CD-0FE0-6982EABEE3E9}.wem"
+     },
+     {
+      "Id": "518421803",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State B Corrupted w tail at start and end.wav",
+      "CachePath": "95/{95A3FEFD-22A9-C8BB-92B6-29569B7E1917}.wem"
+     },
+     {
+      "Id": "549187163",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State A Safe w no tail.wav",
+      "CachePath": "3F/{3FEC2C70-CFBB-19B5-453B-34720A52C196}.wem"
+     },
+     {
+      "Id": "741713364",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State B Corrupted 1.4.wav",
+      "CachePath": "5F/{5FC7C2E8-C8FA-0398-9B25-289AFCDAE049}.wem"
+     },
+     {
+      "Id": "1044325558",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "State A Safe w tail in beginning.wav",
+      "CachePath": "CE/{CEF0C0D4-8546-AFB3-E6AA-EC71103143EE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3748028359",
+      "Name": "Loop_Music",
+      "ObjectPath": "\\Events\\Music\\Loop_Music",
+      "GUID": "{1562311F-233B-4666-9D25-E77152153FD2}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "124086837"
+       },
+       {
+        "Id": "174459924"
+       },
+       {
+        "Id": "262187711"
+       },
+       {
+        "Id": "317674465"
+       },
+       {
+        "Id": "466093923"
+       },
+       {
+        "Id": "518421803"
+       },
+       {
+        "Id": "549187163"
+       },
+       {
+        "Id": "741713364"
+       },
+       {
+        "Id": "1044325558"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3C3BAEE1-FB05-E68D-2584-0020E2F7E324}"
+ }
+}

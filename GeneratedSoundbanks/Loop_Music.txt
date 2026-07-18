@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3748028359	Loop_Music			\Music\Loop_Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	124086837	State B Corrupted w no tail	.cache\74\{745A70E1-86CA-0CE8-1595-95ABC78F9C52}.wem		\Containers\Music\State A and B\State B Corrupted w no tail\State B Corrupted w no tail		8640184
+	174459924	Intro For Both States	.cache\6A\{6A08CEB8-466B-AA89-653C-7C0F6CC2B3C2}.wem		\Containers\Music\State A and B\Intro For Both States\Intro For Both States		2601176
+	262187711	State A Safe w tail at end	.cache\BD\{BD8B543F-4FBB-47BA-674E-DC06E2BB2483}.wem		\Containers\Music\State A and B\State A Safe w tail at start and end\State A Safe w tail at end		9216160
+	317674465	State B Corrupted w tail at start	.cache\6C\{6C02A991-AAC9-9ABF-D35C-6080B8A68321}.wem		\Containers\Music\State A and B\State B Corrupted w tail at start\State B Corrupted w tail at start		8640184
+	466093923	State A Safe 1_4	.cache\A5\{A596EED5-6379-D0CD-0FE0-6982EABEE3E9}.wem		\Containers\Music\State A and B\State A Safe 1_4\State A Safe 1_4		9216160
+	518421803	State B Corrupted w tail at start and end	.cache\95\{95A3FEFD-22A9-C8BB-92B6-29569B7E1917}.wem		\Containers\Music\State A and B\State B Corrupted w tail at start and end\State B Corrupted w tail at start and end		8892632
+	549187163	State A Safe w no tail	.cache\3F\{3FEC2C70-CFBB-19B5-453B-34720A52C196}.wem		\Containers\Music\State A and B\State A Safe w no tail\State A Safe w no tail		8640160
+	741713364	State B Corrupted 1_4	.cache\5F\{5FC7C2E8-C8FA-0398-9B25-289AFCDAE049}.wem		\Containers\Music\State A and B\State B Corrupted 1_4\State B Corrupted 1_4		8892632
+	1044325558	State A Safe w tail in beginning	.cache\CE\{CEF0C0D4-8546-AFB3-E6AA-EC71103143EE}.wem		\Containers\Music\State A and B\State A Safe w tail in beginning\State A Safe w tail in beginning		8640160
+

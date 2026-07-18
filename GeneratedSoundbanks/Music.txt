@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Music\Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	884049298	RE2	.cache\65\{65FBDDF9-1FA6-EF1D-E544-25398266751A}.wem		\Containers\Music\RE2\RE2		6988396
+
