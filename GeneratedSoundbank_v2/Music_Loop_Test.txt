@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4181321930	Music_Loop_Test			\Music\Music_Loop_Test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	113270699	Explore-Theme_138bpm4-4_L16M-P1M	Y:\Documents\WwiseProjects\testing wwise to godot\.cache\0A\{0A438981-4DDB-4DE5-C5CE-A44822B14CDB}.wem		\Interactive Music Hierarchy\Music\New Music Playlist Container\Explore-Theme_138bpm4-4_L16M-P1M\Explore-Theme_138bpm4-4_L16M-P1M		6344444
+	249330575	Explore-Rhythm_138bpm4-4_L16M-P1M	Y:\Documents\WwiseProjects\testing wwise to godot\.cache\4E\{4E6D790B-674B-9A0E-5BAD-EAC038DB4F1D}.wem		\Interactive Music Hierarchy\Music\New Music Playlist Container\Explore-Rhythm_138bpm4-4_L16M-P1M\Explore-Rhythm_138bpm4-4_L16M-P1M		6344444
+	1038165644	Explore-Arpeggio_138bpm4-4_L16M-P1M	Y:\Documents\WwiseProjects\testing wwise to godot\.cache\13\{1342ABFC-D787-A44D-2906-93CC8742E2ED}.wem		\Interactive Music Hierarchy\Music\New Music Playlist Container\Explore-Arpeggio_138bpm4-4_L16M-P1M\Explore-Arpeggio_138bpm4-4_L16M-P1M		6344444
+

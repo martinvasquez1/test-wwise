@@ -1,0 +1,67 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Linux",
+  "BasePlatform": "Linux",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4181321930",
+    "Type": "User",
+    "GUID": "{AEED7A36-6AA3-447E-B714-39198914C426}",
+    "Language": "SFX",
+    "Hash": "{8AA70DE2-F66F-1605-0777-0C84936C6C1F}",
+    "ObjectPath": "\\SoundBanks\\Music\\Music_Loop_Test",
+    "ShortName": "Music_Loop_Test",
+    "Path": "Music_Loop_Test.bnk",
+    "Media": [
+     {
+      "Id": "113270699",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Explore-Theme_138bpm4-4_L16M-P1M.wav",
+      "CachePath": "0A/{0A438981-4DDB-4DE5-C5CE-A44822B14CDB}.wem"
+     },
+     {
+      "Id": "249330575",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Explore-Rhythm_138bpm4-4_L16M-P1M.wav",
+      "CachePath": "4E/{4E6D790B-674B-9A0E-5BAD-EAC038DB4F1D}.wem"
+     },
+     {
+      "Id": "1038165644",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Explore-Arpeggio_138bpm4-4_L16M-P1M.wav",
+      "CachePath": "13/{1342ABFC-D787-A44D-2906-93CC8742E2ED}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4181321930",
+      "Name": "Music_Loop_Test",
+      "ObjectPath": "\\Events\\Music\\Music_Loop_Test",
+      "GUID": "{29B08A68-5F3C-471A-A856-AEF7F80EEAA0}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "113270699"
+       },
+       {
+        "Id": "249330575"
+       },
+       {
+        "Id": "1038165644"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DF1A58EA-EC3D-ED90-DC06-79F45CC091DF}"
+ }
+}
